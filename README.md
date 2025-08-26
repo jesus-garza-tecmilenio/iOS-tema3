@@ -41,7 +41,3 @@ Para mostrar una imagen propia en SwiftUI:
 
 ### Notas sobre el .gitignore
 El archivo `.gitignore` ya incluye las exclusiones recomendadas para proyectos Xcode y Swift, como carpetas de usuario, builds, dependencias y archivos temporales. No es necesario agregar nada adicional para este tipo de proyecto.
-
----
-
-Este ejemplo está listo para usarse en clase y para que los alumnos experimenten con los controles y layouts de SwiftUI.
